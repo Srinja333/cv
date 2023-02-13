@@ -8,16 +8,12 @@ width: 100%;
 }
 
 body{
-background-color:rgba(9, 28, 97, 0.61);
+background-color: rgba(6, 6, 124, 0.61);
 }
+
 .a{
   display:block;
     text-decoration:none;
-}
-
-.skills
-{
-   
 }
 
 .sch
